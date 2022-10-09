@@ -1,4 +1,4 @@
-# Uber Pay reference app
+# Cosmos Live Pay app
 [![Build Status](https://travis-ci.com/uber/uber-pay-reference-app.svg?token=ZPTWqoramjxEmQsZapKj&branch=master)](https://travis-ci.com/uber/uber-pay-reference-app)
 
 > This project is an example for the Uber Pay API. Support on this project may be limited.
